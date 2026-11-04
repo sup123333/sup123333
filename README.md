@@ -6,7 +6,7 @@
 
 - 🔭 [**IT Hub Space**](https://github.com/sup123333/ithub-space) — REST API информационной платформы колледжа.
   Командная учебная практика, моя роль — backend.
-- ⚡ Хакатон: связал backend и frontend команды через ngrok, тестировал API в Postman.
+- ⚡ Участвовал в хакатоне **UMIRHack 2026** (весна) в роли backend-разработчика — [сертификат](assets/umirhack-2026-certificate.jpg).
 
 **Что уже изучил**
 
